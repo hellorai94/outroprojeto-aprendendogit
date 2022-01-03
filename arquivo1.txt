@@ -1,0 +1,1 @@
+Um novo aquivo para aprender usar o comando git add .

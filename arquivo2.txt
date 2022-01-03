@@ -1,0 +1,1 @@
+Mais um outro arquivo para aprender a usar o comando git add .
